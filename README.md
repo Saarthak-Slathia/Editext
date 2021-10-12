@@ -4,4 +4,4 @@ Edit your text using Editext.
 
 ### Resources used:
 
-- Python (Download Python from ![python.org](https://python.org/downloads))
+- Python (Download Python from [python.org](https://python.org/downloads))
